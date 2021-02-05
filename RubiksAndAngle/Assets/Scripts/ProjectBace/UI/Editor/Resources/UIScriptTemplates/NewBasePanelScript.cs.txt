@@ -1,0 +1,70 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using YProjectBase;
+
+public class #SCRIPTNAME# : BasePanel
+{
+        // 初始化 必须保留 base.Init();
+        public override void Init() 
+        {
+	        base.Init();
+	
+        }
+
+
+        /// <summary>
+        /// 显示UI
+        /// </summary>
+        public override void ShowUI()
+        {
+
+        }
+
+        /// <summary>
+        /// 隐藏UI
+        /// </summary>
+        public override void HideUI()
+        {
+
+        }
+
+
+	///// <summary>
+	///// 前进显示 UI 事件
+	///// </summary>
+	//public override void FowardShowUI() 
+	//{  
+	//	base.FowardShowUI();  
+	//	#NOTRIM#
+	//}
+	
+	///// <summary>
+	///// 后退显示 UI 事件
+	///// </summary>
+	//public override void BackShowUI() 
+	//{
+	//	base.BackShowUI(); 
+	//	#NOTRIM#
+	//}
+	
+	///// <summary>
+	///// 前进隐藏 UI 事件
+	///// </summary>
+	//public override void FowardHideUI()  
+	//{
+	//	base.FowardHideUI(); 
+	//	#NOTRIM#
+	//}
+	
+	///// <summary>
+	///// 后退隐藏 UI 事件
+	///// </summary>
+	//public override void BackHideUI() 
+	//{ 
+	//	base.BackHideUI(); 
+	//	#NOTRIM#
+	//}
+	
+
+}

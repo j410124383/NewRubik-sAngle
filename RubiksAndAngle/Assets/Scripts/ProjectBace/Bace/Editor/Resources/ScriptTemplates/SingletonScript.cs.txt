@@ -1,0 +1,13 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using YProjectBase;
+
+/// <summary>
+///  继承BaseManager<T> 的 非Mono 单例对象
+/// </summary>
+public class #SCRIPTNAME# : BaseManager<#SCRIPTNAME#>
+{
+
+
+}

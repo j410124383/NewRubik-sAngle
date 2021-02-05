@@ -1,0 +1,13 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using YProjectBase;
+
+/// <summary>
+///  继承于Mono的单例对象 需要自行确保唯一性
+/// </summary>
+public class #SCRIPTNAME# : SingletonMonoBehaviour<#SCRIPTNAME#>
+{
+
+
+}
